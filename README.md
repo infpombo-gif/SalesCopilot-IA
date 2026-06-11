@@ -1,4 +1,17 @@
 SalesCopilot IA – Assistente Inteligente para Atendimento e Vendas
+
+## Arquitetura da Solução
+
+Cliente
+   ↓
+Copiloto IA
+   ↓
+Base de Conhecimento
+   ├── Produtos
+   ├── FAQ
+   ├── Objeções
+   └── Contexto do Negócio
+   
 Objetivo: ajudar vendedores a entender clientes, responder dúvidas, sugerir produtos e lidar com objeções durante o atendimento.
 SalesCopilot IA – Assistente Inteligente para Atendimento e Vendas
 Descrição
